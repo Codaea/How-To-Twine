@@ -8,20 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4a14603df8bf7269",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "a6295bed4d4eb69e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c71f447886a656c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "README.md"
               }
             }
           }
@@ -155,9 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6295bed4d4eb69e",
+  "active": "4c71f447886a656c",
   "lastOpenFiles": [
     "index.md",
+    "README.md",
+    "Untitled",
+    "Media",
+    "links.md",
+    "LICENSE",
     "How-To-Twine/LICENSE",
     "How-To-Twine/README.md",
     "How-To-Twine"
