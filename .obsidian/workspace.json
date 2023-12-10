@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e289327d6fd866da",
+        "id": "1ae9e37ca703ab14",
         "type": "tabs",
         "children": [
           {
-            "id": "47498d5756555a61",
+            "id": "915bd2644522f125",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Media/Media.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
+                "file": "Media/Media.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Media/Media.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,10 +124,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Media/Media.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -138,15 +147,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "47498d5756555a61",
+  "active": "915bd2644522f125",
   "lastOpenFiles": [
-    "index.md",
+    "Media/Advanced/Changing lots of colors at once.md",
+    "Media/How to set a background image.md",
     "Media/Media.md",
-    "Media/Basic Guides.md",
-    "README.md",
-    "links.md",
-    "Basic Text Adjustments.md",
+    "Media/Basic/How to change text color.md",
     "Media/Basic/How to add images.md",
+    "Media/Advanced/What are changers?.md",
+    "README.md",
+    "index.md",
+    "links.md",
+    "Basic Guides.md",
+    "What are hooks?.md",
+    "assets/ColorSelect.jpg",
+    "assets",
+    "Basic Text Adjustments.md",
     "Media/Advanced",
     "Media/Basic",
     "Media",

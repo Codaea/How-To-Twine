@@ -13,6 +13,7 @@ you can click on code snippets in the top right to copy the code
 <p>this is a code snippet that you can copy!</p>
 ```
 
+This guide was written with Harlowe in mind. if you don't know what that means, don't worry about it.
 
 ## Places and things to do!
 

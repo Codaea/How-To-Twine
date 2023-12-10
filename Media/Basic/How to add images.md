@@ -6,7 +6,7 @@ this assumes you want to add images to a passage.
 
 if your image doesn't already exist on the internet, (etc it's only on your computer), you need to take [[How to add images#Hosting Your Image|This Step First]]. 
 
-[[How to add images#The code|if you already have your image URL and don't want a explanation, click here]]
+[[How to add images#TLDR;|if you already have your image URL and don't want a explanation, click here]]
 
 ### Hosting Your Image
 
@@ -22,7 +22,7 @@ right click on the image you want to use and click "Copy Image Address". thats i
 
 
 
-## The code with a little explanation
+## TLDR;
 
 Twine is kind of like HTML at certain points, and this is one of those things. 
 

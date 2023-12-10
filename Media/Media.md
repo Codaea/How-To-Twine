@@ -5,6 +5,7 @@ Welcome to media! This contains things from changing text **bold** and colored t
 ## Basic Guides
 
 - [[How to change text color]]
+- [[How to change background color]]
 - [[How to set a background image]]
 - [[How to add audio]]
 - [[How to add images]]

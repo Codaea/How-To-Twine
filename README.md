@@ -9,15 +9,13 @@ this contains some information that is to some level copy and pasted from existi
 
 
 - https://twinery.org/cookbook/
-- https://www.adamhammond.com/twineguide/
-- https://blogs.stockton.edu/textscape/files/2015/04/A-Twine-Cheat-Sheet.pdf
-- 
+- https://twine2.neocities.org/
 
 ## TODO
 
-- [ ] Quartz Hosting online
-- [ ] Github actions update quartz hosting
-- [ ] Get Mullen on Github
+- [x] Quartz Hosting online
+- [x] Github actions update quartz hosting
+- [x] Get Mullen on Github
 
 - [ ] basic media stuff
 - [ ] Puzzle Directory
